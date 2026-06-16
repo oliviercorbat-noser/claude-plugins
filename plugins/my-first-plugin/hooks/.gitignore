@@ -2,3 +2,6 @@
 *
 # ...aber ignoriere diese .gitignore-Datei selbst nicht
 !.gitignore
+# ...und auch den Beispiel-Hook nicht
+!hooks.json
+!lint-after-edit.sh
