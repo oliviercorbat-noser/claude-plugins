@@ -1,0 +1,8 @@
+{
+    "name": "GitHub-plugin",
+    "description": "A plugin to interact with GitHub repositories, issues, and pull requests.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Olivier Corbat"
+    }
+}

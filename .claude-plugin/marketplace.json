@@ -8,6 +8,11 @@
             "name": "my-first-plugin",
             "source": "./plugins/my-first-plugin",
             "description": "A greeting plugin to learn the basics"
+        },
+        {
+            "name": "GitHub-plugin",
+            "source": "./plugins/github-plugin",
+            "description": "A plugin to interact with GitHub repositories, issues, and pull requests."
         }
     ]
 }
