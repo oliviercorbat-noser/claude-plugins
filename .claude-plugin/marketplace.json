@@ -1,0 +1,13 @@
+{
+    "name": "my-plugins",
+    "owner": {
+        "name": "Olivier Corbat"
+    },
+    "plugins": [
+        {
+            "name": "my-first-plugin",
+            "source": "./plugins/my-first-plugin",
+            "description": "A greeting plugin to learn the basics"
+        }
+    ]
+}
